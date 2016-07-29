@@ -2,3 +2,4 @@
 - hosts: test-server
   roles:
   - nginx
+  - nodejs
